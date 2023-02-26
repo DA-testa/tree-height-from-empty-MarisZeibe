@@ -2,7 +2,6 @@
 
 import sys
 import threading
-import numpy as np
 
 def compute_height(n, parents, i = [-1], max_height = -1, height = 0):
     # Write this function
